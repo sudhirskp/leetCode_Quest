@@ -1,4 +1,4 @@
-package Arrays;
+package Test1;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
